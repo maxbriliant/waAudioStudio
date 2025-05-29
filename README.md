@@ -16,7 +16,6 @@
 <img src="screenshot1.png" alt="GUI Screenshot" width="60%">
 
 <br>
-<br>
 
 ## Features
 
