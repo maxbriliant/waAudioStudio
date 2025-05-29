@@ -2,6 +2,8 @@
 
 🎤 **The audio recorder that makes WhatsApp voice messages actually bearable**
 
+<img src="screenshot1.png" alt="GUI Screenshot" width="60%">
+
 ## Why This Tool?
 
 **The Problem:** WhatsApp's built-in recorder sucks - poor quality, compression hell, professional microphone of no use.
@@ -89,8 +91,6 @@ journalctl -u whatsapp-converter.service -f
 # Restart if needed
 sudo systemctl restart whatsapp-converter.service
 ```
-
-![GUI Screenshot](screenshot1.png)
 
 
 ## Usage
