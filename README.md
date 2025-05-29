@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<img src="screenshot1.png" alt="GUI Screenshot" width="60%">
+<img src="screenshot1.png" alt="GUI Screenshot" width="40%">
 
 <br>
 
