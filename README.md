@@ -10,9 +10,13 @@
 
 **The Result:** Professional audio quality for WhatsApp, zero hassle. 🎯
 
-
+<br>
+<br>
 
 <img src="screenshot1.png" alt="GUI Screenshot" width="60%">
+
+<br>
+<br>
 
 ## Features
 
