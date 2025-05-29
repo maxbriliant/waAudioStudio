@@ -2,8 +2,6 @@
 
 🎤 **The audio recorder that makes WhatsApp voice messages actually bearable**
 
-<img src="screenshot1.png" alt="GUI Screenshot" width="60%">
-
 ## Why This Tool?
 
 **The Problem:** WhatsApp's built-in recorder sucks - 
@@ -12,6 +10,10 @@ poor quality, compression hell, your professional microphone -> has no power her
 **The Solution:** A clean browser-based recorder that creates high-quality WebM files, paired with a smart FFmpeg watchdog that auto-converts everything for WhatsApp in the background.
 
 **The Result:** Professional audio quality for WhatsApp, zero hassle. 🎯
+
+
+
+<img src="screenshot1.png" alt="GUI Screenshot" width="60%">
 
 ## Features
 
