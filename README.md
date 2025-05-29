@@ -1,8 +1,5 @@
 # WhatsApp Audio Studio
 
-![GUI Screenshot](screenshot1.png)
-
-
 🎤 **The audio recorder that makes WhatsApp voice messages actually bearable**
 
 ## Why This Tool?
@@ -92,6 +89,9 @@ journalctl -u whatsapp-converter.service -f
 # Restart if needed
 sudo systemctl restart whatsapp-converter.service
 ```
+
+![GUI Screenshot](screenshot1.png)
+
 
 ## Usage
 
