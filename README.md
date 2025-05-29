@@ -1,6 +1,6 @@
 # WhatsApp Audio Studio
 
-![GUI Screenshot](screenshot.png)
+![GUI Screenshot](screenshot2.png)
 
 
 🎤 **The audio recorder that makes WhatsApp voice messages actually bearable**
