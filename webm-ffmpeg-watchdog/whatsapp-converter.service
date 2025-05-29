@@ -1,0 +1,7 @@
+[Service]
+ExecStart=/usr/local/bin/watch-whatsapp-folder.sh
+Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
