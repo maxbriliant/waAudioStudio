@@ -6,7 +6,7 @@
 
 ## Why This Tool?
 
-**The Problem:** WhatsApp's Web built-in recorder sucks, poor quality, compression hell - in other words -> *Your professional microphone **has no power here!*** 🧙
+**The Problem:** WhatsApp's Web built-in recorder sucks, poor quality, compression hell -> *Your professional microphone? **Has No Power Here!*** 🧙
 
 **The Solution:** A clean browser-based recorder that creates high-quality WebM files, paired with a smart FFmpeg watchdog that auto-converts everything for WhatsApp in the background.
 
