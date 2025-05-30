@@ -4,7 +4,7 @@ After=network.target sound.target
 
 [Service]
 Type=simple
-User=maksim
+# User will be set by installer.sh
 ExecStart=/usr/local/bin/watch-whatsapp-folder.sh
 Restart=on-failure
 RestartSec=2
