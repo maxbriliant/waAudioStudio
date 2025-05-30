@@ -1,4 +1,4 @@
-.# WhatsApp Audio Studio
+# WhatsApp Audio Studio
 
 🎤 **The audio recorder that makes WhatsApp voice messages actually bearable**
 
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<img src="screenshot1.png" alt="GUI Screenshot" width=80%">
+![GUI Screenshot](screenshot1.png)
 
 <br>
 
