@@ -1,4 +1,3 @@
-
 # webm-ffmpeg-watchdog
 
 This tool provides a simple and robust solution for automatically converting `.webm` audio files to `.ogg` format—making them suitable for sharing via WhatsApp. It uses `inotifywait` to monitor a directory and automatically converts new files as they appear.

@@ -1,0 +1,18 @@
+[Unit]
+Description=Auto-convert .webm audio files to .ogg/.mp3 for WhatsApp
+After=network.target sound.target
+
+[Service]
+Type=simple
+User=maksim
+ExecStart=/usr/local/bin/watch-whatsapp-folder.sh
+Restart=on-failure
+RestartSec=2
+Nice=10
+Environment=FFMPEG_CONVERTER_SCRIPT=/usr/local/bin/ffmpeg-converter.sh
+# Optional Logging
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target
