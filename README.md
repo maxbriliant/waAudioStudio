@@ -2,7 +2,7 @@
 
 🎤 **The audio recorder that makes WhatsApp voice messages actually bearable**
 
-![GUI Screenshot](demo.png)
+![GUI Screenshot](demo.jpg)
 
 
 ## Why This Tool?
